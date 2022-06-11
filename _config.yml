@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Benyamin Tabarsi"
-description              : &description "" #Research Assistant at NC State University, PhD Student in Computer Science
+description              : &description "PhD Student in Computer Science at NC State University"
 url                      : "https://benyamintabarsi.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "benyamintabarsi/benyamintabarsi.github.io"

@@ -14,7 +14,7 @@ description              : &description "PhD Student in Computer Science at NC S
 url                      : "https://benyamintabarsi.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "benyamintabarsi/benyamintabarsi.github.io"
-teaser                   : "ben_headshot.jpg"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Benyamin Tabarsi"
-  avatar           : "profile.png"
+  avatar           : "ben_headshot.jpg"
   bio              : "PhD Student in Computer Science at NC State University"
   location         : "Raleigh, North Carolina, USA"
   employer         :

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "hey"
+title:  "h"
 header:
   teaser: "unsplash-gallery-image-2-th.jpg"
 categories: 

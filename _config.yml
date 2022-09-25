@@ -86,9 +86,9 @@ author:
   location         : "Raleigh, North Carolina, USA"
   employer         :
   pubmed           :
-  googlescholar    :  "oHcrDHwAAAAJ"
+  googlescholar    :  "https://scholar.google.com/citations?user=oHcrDHwAAAAJ"
   email            :  "btaghiz@ncsu.edu"
-  researchgate     :  "Benyamin-Tabarsi"# example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Benyamin-Tabarsi"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :

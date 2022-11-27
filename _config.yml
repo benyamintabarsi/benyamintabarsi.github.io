@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Benyamin Tabarsi"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Benyamin Tabarsi"
 description              : &description "PhD Student in Computer Science at NC State University"
 url                      : "https://benyamintabarsi.github.io"

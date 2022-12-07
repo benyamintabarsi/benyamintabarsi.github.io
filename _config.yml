@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benyamin Tabarsi"
+title                    : ""
 title_separator          : ""
 name                     : &name "Benyamin Tabarsi"
 description              : &description "PhD Student in Computer Science at NC State University"

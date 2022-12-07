@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Benyamin Tabarsi"
 excerpt: "Benyamin Tabarsi"
 author_profile: true
 redirect_from: 

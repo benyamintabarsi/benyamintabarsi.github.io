@@ -9,8 +9,15 @@ redirect_from:
 ---
 
 
-I am a PhD student in Computer Science at North Carolina State University. I joined the [Game2Learn Lab](https://eliza.csc.ncsu.edu) supervised by Dr. Tiffany Barnes in Spring 2022. 
+Hello! I am a PhD student in Computer Science at North Carolina State University, working in the [Game2Learn Lab](https://eliza.csc.ncsu.edu) under Dr. Tiffany Barnes. I joined the lab in Spring 2022 and am passionate about the intersection of computer science education, large language models (LLMs), and data mining.
 
-My research lies in the intersection of CS education, data mining, and educational technology. The focus of my current research is on enhancing the learning experience of novice programmers by analyzing their coding patterns and creating intelligent support features. 
+I have been actively involved in different studies on LLMs and n. Here are some key projects I'm involved in:
 
-More specifically, I am trying to find coding behaviors that are associated with moments when novices struggle.  We will use this information to create some detectors that identify those moments and provide students with quality intervention. Besides that, I am actively collaborating with other researchers on studies investigating tools that help students and teachers to have a better programming experience. 
+- **Developers and LLMs**: Studying how developers use LLMs to improve their work.
+- **RAG-Based Healthcare App**: Creating an app utilizing Retrieval-Augmented Generation (RAG) that helps patients and healthcare professionals find evidence-based information.
+- **ChatGPT in Classrooms**: Training teachers on how to integrate ChatGPT to enhance their teaching [(workshop website)](https://go.ncsu.edu/chatgpt-workshop).
+- **RAG-Based AI Tutor**: Developing a RAG-based chatbot that provides answers tailored to course materials and instructor preferences.
+
+Another focus of my research is enhancing the learning experience of novice programmers by analyzing their coding patterns and creating intelligent support features.
+
+I am always eager to collaborate with other researchers to develop tools that make learning easier and more effective. If you're interested in educational technology and AI, feel free to reach out!
